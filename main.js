@@ -1,4 +1,6 @@
 // Defining text characters for the empty and full hearts for you to use later.
+ const errorSection = document.getElementById('modal')
+ errorSection.className = ('hidden')
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
